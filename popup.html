@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Intelligence Explorer</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      width: 300px; 
+      padding: 10px; 
+      background: #2b2b2b;
+      color: #fff;
+      border-radius: 12px;
+    }
+    h3 { text-align: center; margin: 0; }
+    input, select, button {
+      width: 100%; 
+      margin-top: 8px; 
+      padding: 6px; 
+      border-radius: 6px;
+    }
+    button {
+      background: #4444aa; 
+      color: white; 
+      font-weight: bold;
+      cursor: pointer;
+    }
+    button:hover { background: #5555cc; }
+  </style>
+</head>
+<body>
+  <h3>Intelligence Explorer</h3>
+
+  <!-- Search -->
+  <input type="text" id="search" placeholder="Search agencies...">
+
+  <!-- Agency dropdown -->
+  <select id="unitSelect">
+    <option value="">-- Select an Agency --</option>
+  </select>
+
+  <!-- Source dropdown -->
+  <select id="sourceSelect">
+    <option value="wiki">Wikipedia</option>
+    <option value="youtube">YouTube</option>
+    <option value="news">Google News</option>
+    <option value="reddit">Reddit r/Intelligence</option>
+    <option value="globalsec">GlobalSecurity</option>
+  </select>
+
+  <button id="goBtn">Go</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>

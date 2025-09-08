@@ -1,0 +1,55 @@
+[
+  { "name": "Central Intelligence Agency (CIA)", "country": "United States", "wiki": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency", "official": "https://www.cia.gov" },
+  { "name": "Federal Bureau of Investigation (FBI)", "country": "United States", "wiki": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation", "official": "https://www.fbi.gov" },
+  { "name": "National Security Agency (NSA)", "country": "United States", "wiki": "https://en.wikipedia.org/wiki/National_Security_Agency", "official": "https://www.nsa.gov" },
+  { "name": "Defense Intelligence Agency (DIA)", "country": "United States", "wiki": "https://en.wikipedia.org/wiki/Defense_Intelligence_Agency", "official": "https://www.dia.mil" },
+
+  { "name": "Security Service (MI5)", "country": "United Kingdom", "wiki": "https://en.wikipedia.org/wiki/MI5", "official": "https://www.mi5.gov.uk" },
+  { "name": "Secret Intelligence Service (MI6)", "country": "United Kingdom", "wiki": "https://en.wikipedia.org/wiki/Secret_Intelligence_Service", "official": "https://www.sis.gov.uk" },
+  { "name": "Government Communications Headquarters (GCHQ)", "country": "United Kingdom", "wiki": "https://en.wikipedia.org/wiki/GCHQ", "official": "https://www.gchq.gov.uk" },
+
+  { "name": "Canadian Security Intelligence Service (CSIS)", "country": "Canada", "wiki": "https://en.wikipedia.org/wiki/Canadian_Security_Intelligence_Service", "official": "https://www.canada.ca/en/security-intelligence-service.html" },
+
+  { "name": "Australian Secret Intelligence Service (ASIS)", "country": "Australia", "wiki": "https://en.wikipedia.org/wiki/Australian_Secret_Intelligence_Service", "official": "https://www.asis.gov.au" },
+  { "name": "Australian Security Intelligence Organisation (ASIO)", "country": "Australia", "wiki": "https://en.wikipedia.org/wiki/Australian_Security_Intelligence_Organisation", "official": "https://www.asio.gov.au" },
+
+  { "name": "Direction Générale de la Sécurité Extérieure (DGSE)", "country": "France", "wiki": "https://en.wikipedia.org/wiki/Directorate-General_for_External_Security", "official": "https://www.defense.gouv.fr/dgse" },
+  { "name": "Direction Générale de la Sécurité Intérieure (DGSI)", "country": "France", "wiki": "https://en.wikipedia.org/wiki/General_Directorate_for_Internal_Security", "official": "https://www.dgsi.interieur.gouv.fr" },
+
+  { "name": "Bundesnachrichtendienst (BND)", "country": "Germany", "wiki": "https://en.wikipedia.org/wiki/Bundesnachrichtendienst", "official": "https://www.bnd.bund.de" },
+  { "name": "Federal Office for the Protection of the Constitution (BfV)", "country": "Germany", "wiki": "https://en.wikipedia.org/wiki/Federal_Office_for_the_Protection_of_the_Constitution", "official": "https://www.verfassungsschutz.de" },
+
+  { "name": "Public Security Intelligence Agency (PSIA)", "country": "Japan", "wiki": "https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency", "official": "https://www.moj.go.jp/psia/" },
+  { "name": "Cabinet Intelligence and Research Office (CIRO)", "country": "Japan", "wiki": "https://en.wikipedia.org/wiki/Cabinet_Intelligence_and_Research_Office" },
+
+  { "name": "Mossad", "country": "Israel", "wiki": "https://en.wikipedia.org/wiki/Mossad", "official": "https://www.mossad.gov.il" },
+  { "name": "Shin Bet (Shabak)", "country": "Israel", "wiki": "https://en.wikipedia.org/wiki/Shin_Bet", "official": "https://www.shabak.gov.il" },
+  { "name": "Aman (Military Intelligence Directorate)", "country": "Israel", "wiki": "https://en.wikipedia.org/wiki/Aman_(Israel)" },
+
+  { "name": "Research and Analysis Wing (RAW)", "country": "India", "wiki": "https://en.wikipedia.org/wiki/Research_and_Analysis_Wing" },
+  { "name": "Intelligence Bureau (IB)", "country": "India", "wiki": "https://en.wikipedia.org/wiki/Intelligence_Bureau_(India)" },
+
+  { "name": "Federal Security Service (FSB)", "country": "Russia", "wiki": "https://en.wikipedia.org/wiki/Federal_Security_Service" },
+  { "name": "Foreign Intelligence Service (SVR)", "country": "Russia", "wiki": "https://en.wikipedia.org/wiki/Foreign_Intelligence_Service_(Russia)" },
+  { "name": "Main Intelligence Directorate (GRU)", "country": "Russia", "wiki": "https://en.wikipedia.org/wiki/GRU" },
+
+  { "name": "Ministry of State Security (MSS)", "country": "China", "wiki": "https://en.wikipedia.org/wiki/Ministry_of_State_Security_(China)" },
+
+  { "name": "Ministry of Intelligence (MOIS)", "country": "Iran", "wiki": "https://en.wikipedia.org/wiki/Ministry_of_Intelligence" },
+  { "name": "Islamic Revolutionary Guard Corps Intelligence Organization (IRGC-IO)", "country": "Iran", "wiki": "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Intelligence_Organization" },
+
+  { "name": "National Intelligence Organisation (MIT)", "country": "Turkey", "wiki": "https://en.wikipedia.org/wiki/National_Intelligence_Organisation_(Turkey)", "official": "https://www.mit.gov.tr" },
+
+  { "name": "Agência Brasileira de Inteligência (ABIN)", "country": "Brazil", "wiki": "https://en.wikipedia.org/wiki/Brazilian_Intelligence_Agency", "official": "https://www.gov.br/abin" },
+
+  { "name": "General Intelligence Directorate (GID)", "country": "Jordan", "wiki": "https://en.wikipedia.org/wiki/General_Intelligence_Directorate_(Jordan)" },
+
+  { "name": "National Intelligence and Security Service (NISS)", "country": "Sudan", "wiki": "https://en.wikipedia.org/wiki/National_Intelligence_and_Security_Service" },
+
+  { "name": "State Security Service (SSS)", "country": "Nigeria", "wiki": "https://en.wikipedia.org/wiki/State_Security_Service" },
+
+  { "name": "National Intelligence Agency (NIA)", "country": "South Africa", "wiki": "https://en.wikipedia.org/wiki/National_Intelligence_Agency_(South_Africa)" },
+
+  { "name": "National Intelligence Directorate (DNI)", "country": "Colombia", "wiki": "https://en.wikipedia.org/wiki/National_Intelligence_Directorate_(Colombia)" },
+  { "name": "General Directorate of Military Counterintelligence (DGCIM)", "country": "Venezuela", "wiki": "https://en.wikipedia.org/wiki/General_Directorate_of_Military_Counterintelligence" }
+]
